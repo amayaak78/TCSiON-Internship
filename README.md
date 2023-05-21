@@ -1,1 +1,2 @@
 # TCSiON-Internship
+A modern competitive world demands product demand forecasting to predict essential information about future customer demand. It helps reduce risks and make efficient financial decisions. So, the main goal of this project is to develop a forecasting system that predict the demand of products in retail stores. This model able to forecast future sales with the help of historical data and time-series forecasting techniques
